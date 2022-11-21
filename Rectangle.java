@@ -1,6 +1,7 @@
+//*AREA OF RECTANGLE PROGRAM *//
 class Rectangle
 {
-	int x,int y;
+	int a,int b;
 	public void rect(int x,int y)
 	{
 		a=x;
