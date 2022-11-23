@@ -14,3 +14,4 @@ class sum
 		System.out.println("SUM OF NATURAL NUMBERS="+sum);
 	}
 }
+// * THIS PROGRAM DEVELOPED BY VENKATAPATHI *//
