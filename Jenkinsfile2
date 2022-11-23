@@ -26,7 +26,7 @@ pipeline{
 					sh 'mvn pmd:pmd'
 				}
 			}
-			stage('unitest'){
+			stage('unitTest'){
 				agent any
 				steps{
 					sh 'mvn test'
